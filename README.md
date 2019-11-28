@@ -10,6 +10,7 @@ The three volumes are:
 
 ![Volume 1](AML1-Cover.PNG)
 ![Volume 1](AML1-Cover.PNG)
+![Volume 1](AML1-Cover.PNG)
 
 In case you find an error, or some explanations might be confusing for you, or some important items you think that are missing then please, do not hesitate providing your feedback by creating an issue. In case you have any suggestion for improvement you may want to create a pull request.
 
