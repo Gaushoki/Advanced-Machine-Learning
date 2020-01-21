@@ -8,7 +8,7 @@ The three volumes are:
 - Supervised Learning
 - Unsupervised Learning
 
-![Volume 1](AML1-Cover.PNG)
+![Volume 1](images/AML1-Cover.PNG)
 ![Volume 2](AML2-Cover.PNG)
 ![Volume 3](AML3-Cover.PNG)
 
