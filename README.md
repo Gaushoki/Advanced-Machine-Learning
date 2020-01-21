@@ -9,11 +9,11 @@ The three volumes are:
 - Unsupervised Learning
 
 ![Volume 1](AML1-Cover.PNG)
-![Volume 1](AML2-Cover.PNG)
-![Volume 1](AML3-Cover.PNG)
+![Volume 2](AML2-Cover.PNG)
+![Volume 3](AML3-Cover.PNG)
 
-In case you find an error, or some explanations might be confusing for you, or some important items you think that are missing, please, do not hesitate providing your feedback by creating an issue. Moreover, if you have any suggestion for improvement you may wish to create a pull request.
+In case you find an error or some explanations might be confusing for you, or some important items you think are missing, please, do not hesitate to provide your feedback by creating an issue. Moreover, if you have any suggestions for improvement you may wish to create a pull request.
 
-These Jupyter Notebooks, including texts, images and codes, are made available under the MIT License ( <https://opensource.org/licenses/MIT>).
+These Jupyter Notebooks are made available under the MIT License (<https://opensource.org/licenses/MIT>).
 
 Ferenc Farkas, Ph.D.
