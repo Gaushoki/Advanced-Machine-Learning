@@ -1,7 +1,7 @@
 # Advanced Machine Learning
 ### From Theory to Practice with NumPy and scikit-learn
 
-This is the repository for the Jupyter Notebooks accompanying the 3 volume book "**Advanced Machine Learning - From Theory to Practice with NumPy and scikit-learn**". 
+This is the repository for the Jupyter Notebooks accompanying the 3 volume publication "**Advanced Machine Learning - From Theory to Practice with NumPy and scikit-learn**".
 
 The three volumes are:
 - Generalized Linear Models
