@@ -1,12 +1,12 @@
 # Advanced Machine Learning
 ### From Theory to Practice with NumPy and scikit-learn
 
-This is the repository for the Jupyter Notebooks accompanying the 3 volume publication "**Advanced Machine Learning - From Theory to Practice with NumPy and scikit-learn**".
+This is the repository for the Jupyter Notebooks accompanying the 3 volume publication:
 
-The three volumes are:
-- Volume 1: Generalized Linear Models (You can buy on [Leanpub](https://leanpub.com/AML1))
-- Volume 2: Supervised Learning (You can buy on [Leanpub](https://leanpub.com/AML2))
-- Volume 3: Unsupervised Learning (You can buy on [Leanpub](https://leanpub.com/AML3))
+**Advanced Machine Learning - From Theory to Practice with NumPy and scikit-learn**
+- *Volume 1: Generalized Linear Models* (You can buy on [Leanpub](https://leanpub.com/AML1))
+- *Volume 2: Supervised Learning* (You can buy on [Leanpub](https://leanpub.com/AML2))
+- *Volume 3: Unsupervised Learning* (You can buy on [Leanpub](https://leanpub.com/AML3))
 
 ![Volume 1](images/AML1-Cover.PNG)
 ![Volume 2](images/AML2-Cover.PNG)
