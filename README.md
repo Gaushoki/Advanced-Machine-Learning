@@ -1,9 +1,9 @@
-# Advanced Machine Learning
+# Advanced Machine Learning Made Easy
 ### From Theory to Practice with NumPy and scikit-learn
 
 This is the repository for the Jupyter Notebooks accompanying the 3 volume publication:
 
-**Advanced Machine Learning - From Theory to Practice with NumPy and scikit-learn**
+**Advanced Machine Learning Made Easy - From Theory to Practice with NumPy and scikit-learn**
 - *Volume 1: Generalized Linear Models* (You can buy on [Leanpub](https://leanpub.com/AML1))
 - *Volume 2: Supervised Learning* (You can buy on [Leanpub](https://leanpub.com/AML2))
 - *Volume 3: Unsupervised Learning* (You can buy on [Leanpub](https://leanpub.com/AML3))
