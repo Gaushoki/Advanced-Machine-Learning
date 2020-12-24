@@ -1,0 +1,121 @@
+Date of introduction,Transistor count,Processor,Designer,Process,Area
+1971,2300,Intel 4004,Intel,"10,000 nm",12 mm²
+1972,3500,Intel 8008,Intel,"10,000 nm",14 mm²
+1974,8000,TMS 1000,Texas Instruments,"8,000 nm",11 mm²
+1974,4100,Motorola 6800,Motorola,"6,000 nm",16 mm²
+1974,4500,Intel 8080,Intel,"6,000 nm",20 mm²
+1974,5000,RCA 1802,RCA,"5,000 nm",27 mm²
+1975,3510,MOS Technology 6502,MOS Technology,"8,000 nm",21 mm²
+1976,6500,Intel 8085,Intel,"3,000 nm",20 mm²
+1976,8500,Zilog Z80,Zilog,"4,000 nm",18 mm²
+1978,9000,Motorola 6809,Motorola,"5,000 nm",21 mm²
+1978,29000,Intel 8086,Intel,"3,000 nm",33 mm²
+1979,29000,Intel 8088,Intel,"3,000 nm",33 mm²
+1979,68000,Motorola 68000,Motorola,"3,500 nm",44 mm²
+1981,11500,WDC 65C02,WDC,"3,000 nm",6 mm²
+1982,55000,Intel 80186,Intel,"3,000 nm",60 mm²
+1982,134000,Intel 80286,Intel,"1,500 nm",49 mm²
+1983,22000,WDC 65C816,WDC,3000 nm[7],9 mm²
+1984,190000,Motorola 68020,Motorola,"2,000 nm",85 mm²
+1985,275000,Intel 80386,Intel,"1,500 nm",104 mm²
+1985,25000,ARM 1,Acorn,"3,000 nm",50 mm²
+1985,16000,Novix NC4016,Harris Corporation,"3,000 nm[11]",
+1986,30000,ARM 2,Acorn,"2,000 nm",30 mm²
+1987,273000,Motorola 68030,Motorola,800 nm,102 mm²
+1987,553000,TI Explorer's Lisp machine,Texas Instruments,"2,000 nm[13]",
+1988,180000,DEC WRL MultiTitan,DEC WRL,"1,500 nm",61 mm²
+1988,250000,Intel i960,Intel,600 nm,
+1989,1180235,Intel 80486,Intel,1000 nm,173 mm²
+1989,310000,ARM 3,Acorn,"1,500 nm",87 mm²
+1990,1200000,68040,Motorola,650 nm,152 mm²
+1991,1350000,R4000,MIPS,"1,000 nm",213 mm²
+1991,35000,ARM 6,ARM,800 nm,
+1993,3100000,Pentium,Intel,800 nm,294 mm²
+1994,578977,ARM700,ARM,,68.51 mm²
+1994,2500000,68060,Motorola,600 nm,218 mm²
+1995,2500000,SA-110,Acorn/DEC/Apple,350 nm,50 mm²
+1995,5500000,Pentium Pro,Intel,500 nm,307 mm²
+1996,4300000,AMD K5,AMD,500 nm,251 mm²
+1997,7500000,Pentium II Klamath,Intel,350 nm,195 mm²
+1997,8800000,AMD K6,AMD,350 nm,162 mm²
+1998,7500000,Pentium II Deschutes,Intel,250 nm,113 mm²
+1999,111000,ARM 9TDMI,Acorn,350 nm,4.8 mm²
+1999,9500000,Pentium III Katmai,Intel,250 nm,128 mm²
+1999,27400000,Pentium II Mobile Dixon,Intel,180 nm,180 mm²
+1999,21300000,AMD K6-III,AMD,250 nm,118 mm²
+1999,22000000,AMD K7,AMD,250 nm,184 mm²
+2000,21000000,Pentium III Coppermine,Intel,180 nm,80 mm²
+2000,42000000,Pentium 4 Willamette,Intel,180 nm,217 mm²
+2001,45000000,Pentium III Tualatin,Intel,130 nm,81 mm²
+2002,55000000,Pentium 4 Northwood,Intel,130 nm,145 mm²
+2002,220000000,Itanium 2 McKinley,Intel,180 nm,421 mm²
+2003,54300000,Barton,AMD,130 nm,101 mm²
+2003,105900000,AMD K8,AMD,130 nm,193 mm²
+2003,410000000,Itanium 2 Madison 6M,Intel,130 nm,374 mm²
+2004,112000000,Pentium 4 Prescott,Intel,90 nm,110 mm²
+2004,592000000,Itanium 2 with 9 MB cache,Intel,130 nm,432 mm²
+2005,169000000,Pentium 4 Prescott-2M,Intel,90 nm,143 mm²
+2005,228000000,Pentium D Smithfield,Intel,90 nm,206 mm²
+2006,184000000,Pentium 4 Cedar Mill,Intel,65 nm,90 mm²
+2006,362000000,Pentium D Presler,Intel,65 nm,162 mm²
+2006,241000000,Cell,Sony/IBM/Toshiba,90 nm,221 mm²
+2006,291000000,Core 2 Duo Conroe,Intel,65 nm,143 mm²
+2006,1700000000,Dual-core Itanium 2,Intel,90 nm,596 mm²
+2007,169000000,Core 2 Duo Allendale,Intel,65 nm,111 mm²
+2007,463000000,AMD K10 quad-core 2M L3,AMD,65 nm,283 mm²
+2007,26000000,ARM Cortex-A9,ARM,45 nm,31 mm²
+2007,411000000,Core 2 Duo Wolfdale,Intel,45 nm,107 mm²
+2007,789000000,POWER6,IBM,65 nm,341 mm²
+2008,47000000,Atom,Intel,45 nm,24 mm²
+2008,230000000,Core 2 Duo Wolfdale 3M,Intel,45 nm,83 mm²
+2008,731000000,Core i7 (Quad),Intel,45 nm,263 mm²
+2008,758000000,AMD K10 quad-core 6M L3,AMD,45 nm,258 mm²
+2008,1900000000,Six-core Xeon 7400,Intel,45 nm,503 mm²
+2009,904000000,Six-core Opteron 2400,AMD,45 nm,346 mm²
+2010,1000000000,16-core SPARC T3,Sun/Oracle,40 nm,377 mm²
+2010,1170000000,Core i7 (Gulftown),Intel,32 nm,240 mm²
+2010,1200000000,8-core POWER7 32M L3,IBM,45 nm,567 mm²
+2010,1400000000,Quad-core z196[23],IBM,45 nm,512 mm²
+2010,2000000000,Quad-core Itanium Tukwila,Intel,65 nm,699 mm²
+2010,2300000000,8-core Xeon Nehalem-EX,Intel,45 nm,684 mm²
+2011,1160000000,Quad-core + GPU Core i7,Intel,32 nm,216 mm²
+2011,2270000000,Core i7 Xeon E5 (Sandy Bridge),Intel,32 nm,434 mm²
+2011,2600000000,Xeon Westmere-EX,Intel,32 nm,512 mm²
+2012,432000000,"Atom ""Medfield""",Intel,32 nm,64 mm²
+2012,1200000000,8-core AMD Bulldozer,AMD,32 nm,315 mm²
+2012,1303000000,Quad-core + GPU AMD Trinity,AMD,32 nm,246 mm²
+2012,1400000000, Core i7 Ivy Bridge,Intel,22 nm,160 mm²
+2012,2100000000,8-core POWER7+ 80 MB L3,IBM,32 nm,567 mm²
+2012,2750000000,Six-core zEC12,IBM,32 nm,597 mm²
+2012,3100000000,8-core Itanium Poulson,Intel,32 nm,544 mm²
+2012,5000000000,61-core Xeon Phi,Intel,22 nm,720 mm²
+2013,1000000000,Apple A7,Apple,28 nm,102 mm²
+2013,1860000000,Six-core Core i7 Ivy Bridge E,Intel,22 nm,256 mm²
+2013,4200000000,12-core POWER8,IBM,22 nm,650 mm²
+2013,5000000000,Xbox One main SoC,Microsoft/AMD,28 nm,363 mm²
+2014,1400000000,Core i7 Haswell,Intel,22 nm,177 mm²
+2014,2000000000,Apple A8,Apple,20 nm,89 mm²
+2014,2600000000,8-core Core i7 Haswell-E,Intel,22 nm,355 mm²
+2014,3000000000,Apple A8X ,Apple,20 nm,128 mm²
+2014,4310000000,15-core Xeon Ivy Bridge-EX,Intel,22 nm,541 mm²
+2014,5560000000,18-core Xeon Haswell-E5,Intel,22 nm,661 mm²
+2015,1750000000,Core i7 Skylake K,Intel,14 nm,122 mm²
+2015,1900000000,Core i7 Broadwell-U,Intel,14 nm,133 mm²
+2015,3990000000,IBM z13,IBM,22 nm,678 mm²
+2015,7100000000,IBM z13 Storage Controller,IBM,22 nm,678 mm²
+2015,10000000000,32-core SPARC M7,Oracle,20 nm,
+2016,3000000000,Qualcomm Snapdragon 835,Qualcomm,10 nm,
+2016,3200000000,10-core Core i7 Broadwell-E,Intel,14 nm,246 mm²[35]
+2016,3300000000,Apple A10 Fusion,Apple,16 nm,125 mm²
+2016,7200000000,22-core Xeon Broadwell-E5,Intel,14 nm,456 mm²
+2016,8000000000,72-core Xeon Phi,Intel,14 nm,683 mm²
+2017,4300000000,Apple A11 Bionic,Apple,10 nm,89 mm²
+2017,4800000000,8-core Ryzen,AMD,14 nm,192 mm²
+2017,6100000000,IBM z14,IBM,14 nm,696 mm²
+2017,7000000000,Xbox One X (Project Scorpio),Microsoft/AMD,16 nm,360 mm²[42]
+2017,8000000000,POWER9,IBM,14 nm,695 mm²
+2017,9700000000,IBM z14 Storage Controller,IBM,14 nm,696 mm²
+2017,18000000000,Centriq 2400,Qualcomm,10 nm,398 mm2
+2017,19200000000,32-core AMD Epyc,AMD,14 nm,768 mm2
+2018,6900000000,Apple A12,Apple,7 nm,83.27 mm2
+2018,23600000000,GC2 IPU,Graphcore,16 nm,825 mm2
